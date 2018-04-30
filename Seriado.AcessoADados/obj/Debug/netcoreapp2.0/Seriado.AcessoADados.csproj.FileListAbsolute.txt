@@ -1,0 +1,11 @@
+c:\Users\Pedro\source\repos\Seriado.api\Seriado.AcessoADados\bin\Debug\netcoreapp2.0\Seriado.AcessoADados.deps.json
+c:\Users\Pedro\source\repos\Seriado.api\Seriado.AcessoADados\bin\Debug\netcoreapp2.0\Seriado.AcessoADados.dll
+c:\Users\Pedro\source\repos\Seriado.api\Seriado.AcessoADados\obj\Debug\netcoreapp2.0\Seriado.AcessoADados.csprojResolveAssemblyReference.cache
+c:\Users\Pedro\source\repos\Seriado.api\Seriado.AcessoADados\obj\Debug\netcoreapp2.0\Seriado.AcessoADados.csproj.CoreCompileInputs.cache
+c:\Users\Pedro\source\repos\Seriado.api\Seriado.AcessoADados\obj\Debug\netcoreapp2.0\Seriado.AcessoADados.AssemblyInfoInputs.cache
+c:\Users\Pedro\source\repos\Seriado.api\Seriado.AcessoADados\obj\Debug\netcoreapp2.0\Seriado.AcessoADados.AssemblyInfo.cs
+C:\Users\Pedro\source\repos\Seriado.api\Seriado.AcessoADados\bin\Debug\netcoreapp2.0\Seriado.AcessoADados.pdb
+C:\Users\Pedro\source\repos\Seriado.api\Seriado.AcessoADados\obj\Debug\netcoreapp2.0\Seriado.AcessoADados.dll
+C:\Users\Pedro\source\repos\Seriado.api\Seriado.AcessoADados\obj\Debug\netcoreapp2.0\Seriado.AcessoADados.pdb
+C:\Users\Pedro\source\repos\Seriado.api\Seriado.AcessoADados\bin\Debug\netcoreapp2.0\Seriado.AcessoADados.runtimeconfig.json
+C:\Users\Pedro\source\repos\Seriado.api\Seriado.AcessoADados\bin\Debug\netcoreapp2.0\Seriado.AcessoADados.runtimeconfig.dev.json

@@ -1,0 +1,16 @@
+c:\users\pedro\source\repos\Seriado.api\Seriado.api\bin\Debug\netcoreapp2.0\Seriado.api.deps.json
+c:\users\pedro\source\repos\Seriado.api\Seriado.api\bin\Debug\netcoreapp2.0\Seriado.api.runtimeconfig.json
+c:\users\pedro\source\repos\Seriado.api\Seriado.api\bin\Debug\netcoreapp2.0\Seriado.api.runtimeconfig.dev.json
+c:\users\pedro\source\repos\Seriado.api\Seriado.api\bin\Debug\netcoreapp2.0\Seriado.api.dll
+c:\users\pedro\source\repos\Seriado.api\Seriado.api\bin\Debug\netcoreapp2.0\Seriado.api.pdb
+c:\users\pedro\source\repos\Seriado.api\Seriado.api\obj\Debug\netcoreapp2.0\Seriado.api.csprojResolveAssemblyReference.cache
+c:\users\pedro\source\repos\Seriado.api\Seriado.api\obj\Debug\netcoreapp2.0\Seriado.api.csproj.CoreCompileInputs.cache
+c:\users\pedro\source\repos\Seriado.api\Seriado.api\obj\Debug\netcoreapp2.0\Seriado.api.AssemblyInfoInputs.cache
+c:\users\pedro\source\repos\Seriado.api\Seriado.api\obj\Debug\netcoreapp2.0\Seriado.api.AssemblyInfo.cs
+c:\users\pedro\source\repos\Seriado.api\Seriado.api\obj\Debug\netcoreapp2.0\Seriado.api.dll
+c:\users\pedro\source\repos\Seriado.api\Seriado.api\obj\Debug\netcoreapp2.0\Seriado.api.pdb
+C:\Users\Pedro\source\repos\Seriado.api\Seriado.api\bin\Debug\netcoreapp2.0\Seriado.AcessoADados.dll
+C:\Users\Pedro\source\repos\Seriado.api\Seriado.api\bin\Debug\netcoreapp2.0\Seriado.RegrasDeNegocio.dll
+C:\Users\Pedro\source\repos\Seriado.api\Seriado.api\bin\Debug\netcoreapp2.0\Seriado.AcessoADados.pdb
+C:\Users\Pedro\source\repos\Seriado.api\Seriado.api\bin\Debug\netcoreapp2.0\Seriado.RegrasDeNegocio.pdb
+C:\Users\Pedro\source\repos\Seriado.api\Seriado.api\obj\Debug\netcoreapp2.0\Seriado.api.csproj.CopyComplete

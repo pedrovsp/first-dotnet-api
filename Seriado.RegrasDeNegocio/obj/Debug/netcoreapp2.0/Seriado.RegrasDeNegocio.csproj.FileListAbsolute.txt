@@ -1,0 +1,14 @@
+C:\Users\Pedro\source\repos\Seriado.api\Seriado.RegrasDeNegocio\bin\Debug\netcoreapp2.0\Seriado.RegrasDeNegocio.deps.json
+C:\Users\Pedro\source\repos\Seriado.api\Seriado.RegrasDeNegocio\bin\Debug\netcoreapp2.0\Seriado.RegrasDeNegocio.dll
+C:\Users\Pedro\source\repos\Seriado.api\Seriado.RegrasDeNegocio\bin\Debug\netcoreapp2.0\Seriado.RegrasDeNegocio.pdb
+C:\Users\Pedro\source\repos\Seriado.api\Seriado.RegrasDeNegocio\bin\Debug\netcoreapp2.0\Seriado.AcessoADados.dll
+C:\Users\Pedro\source\repos\Seriado.api\Seriado.RegrasDeNegocio\bin\Debug\netcoreapp2.0\Seriado.AcessoADados.pdb
+C:\Users\Pedro\source\repos\Seriado.api\Seriado.RegrasDeNegocio\obj\Debug\netcoreapp2.0\Seriado.RegrasDeNegocio.csprojResolveAssemblyReference.cache
+C:\Users\Pedro\source\repos\Seriado.api\Seriado.RegrasDeNegocio\obj\Debug\netcoreapp2.0\Seriado.RegrasDeNegocio.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\source\repos\Seriado.api\Seriado.RegrasDeNegocio\obj\Debug\netcoreapp2.0\Seriado.RegrasDeNegocio.AssemblyInfoInputs.cache
+C:\Users\Pedro\source\repos\Seriado.api\Seriado.RegrasDeNegocio\obj\Debug\netcoreapp2.0\Seriado.RegrasDeNegocio.AssemblyInfo.cs
+C:\Users\Pedro\source\repos\Seriado.api\Seriado.RegrasDeNegocio\obj\Debug\netcoreapp2.0\Seriado.RegrasDeNegocio.csproj.CopyComplete
+C:\Users\Pedro\source\repos\Seriado.api\Seriado.RegrasDeNegocio\obj\Debug\netcoreapp2.0\Seriado.RegrasDeNegocio.dll
+C:\Users\Pedro\source\repos\Seriado.api\Seriado.RegrasDeNegocio\obj\Debug\netcoreapp2.0\Seriado.RegrasDeNegocio.pdb
+C:\Users\Pedro\source\repos\Seriado.api\Seriado.RegrasDeNegocio\bin\Debug\netcoreapp2.0\Seriado.RegrasDeNegocio.runtimeconfig.json
+C:\Users\Pedro\source\repos\Seriado.api\Seriado.RegrasDeNegocio\bin\Debug\netcoreapp2.0\Seriado.RegrasDeNegocio.runtimeconfig.dev.json
